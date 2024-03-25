@@ -21,7 +21,7 @@ let profiles = [
       aboutMe: "느려도 꾸준히",
     },
     {
-      src: "/image/profile/이다현.png",
+      src: "/image/profile/이다현.jpeg",
       name: "이다현",
       major: "소프트웨어공학과",
       part: "Front-End",
